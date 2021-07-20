@@ -27,3 +27,4 @@ export default async function recebedorDeRequests(request, response) {
         message: 'Ainda não temos nada no GET, mas no POST tem!'
     })
 }
+
